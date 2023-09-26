@@ -1,5 +1,8 @@
 _repo: The-Ohio-Naturalist-Vol-I-No-7-May-1901_71495
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71495-h/images/cover.jpg
 creator:
   author:
     agent_name: Ohio State University. Biological Club
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '49984'
     url: http://www.gutenberg.org/2009/agents/49984
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71495#The-Ohio-Naturalist-Vol-I-No-7-May-1901
 gutenberg_issued: '2023-08-26'
 identifiers:
   gutenberg: '71495'
